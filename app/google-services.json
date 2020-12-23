@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473298282481",
+    "project_id": "diu-ph-8dd3d",
+    "storage_bucket": "diu-ph-8dd3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473298282481:android:a2e7ad919f0d34c2414650",
+        "android_client_info": {
+          "package_name": "com.example.diuph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473298282481-ktg94qvvvn6m5qpt9e146qar6ratft57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJpk03fIpgUSE_Vj-X-jdOBcr-eQ3nDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473298282481-ktg94qvvvn6m5qpt9e146qar6ratft57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

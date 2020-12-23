@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">diu ph</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_In">Sign In</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">password</string>
+    <string name="you_haven_t_account">You haven\'t account?</string>
+    <string name="sign_Up">Sign Up</string>
+    <string name="confirm_your_password">confirm your password</string>
+    <string name="you_haven_account">You have account?</string>
+    <string name="this_is_my_dasboard">This is My Dasboard</string>
+    <string name="This_is_My_Dasboard">This is My Dasboard</string>
+</resources>
